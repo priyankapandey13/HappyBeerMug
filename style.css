@@ -1,0 +1,32 @@
+body{
+  background-color:#e11a1a;
+}
+
+.Maincontainer{
+	width: 80%;
+margin: 150px auto 0px;
+}
+.heading{
+	position: absolute;
+left: 0;
+top: 0;
+text-shadow:-1px 4px 3px #6b010185;
+}
+.heading path {
+  fill: transparent;
+}
+
+.heading text {
+  fill: #FFFFFF;
+font-family: roboto;
+text-transform: uppercase;
+font-size: 43px;
+font-weight: bolder;
+text-align: center;
+letter-spacing: -3px;
+}
+.happymug{
+	width: 450px;
+	margin:0px auto;
+}
+.happymug svg{width:100%;}
